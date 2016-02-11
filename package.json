@@ -1,0 +1,30 @@
+{
+  "name": "sand-neo4j",
+  "version": "0.0.0",
+  "description": "Sand.js Plugin for working with Neo4J Graph Database",
+  "main": "lib/neo4j.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandJS/neo4j.git"
+  },
+  "keywords": [
+    "Graph",
+    "Database",
+    "Neo4J",
+    "Sand",
+    "Client"
+  ],
+  "author": "Adam Jaso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandJS/neo4j/issues"
+  },
+  "homepage": "https://github.com/SandJS/neo4j#readme",
+  "dependencies": {
+    "neo4j": "^2.0.0-RC2",
+    "sand-grain": "^1.1.1"
+  }
+}
