@@ -25,6 +25,7 @@
   "homepage": "https://github.com/SandJS/neo4j#readme",
   "dependencies": {
     "callback-and-promise": "^2.0.0",
+    "lodash": "^4.14.1",
     "neo4j": "^2.0.0-RC2",
     "sand-grain": "^1.1.1"
   }
